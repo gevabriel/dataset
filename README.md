@@ -1,2 +1,2 @@
 # dataset
-Kumpulan dataset yang digunakan saat perkuliahan
+dataset used for college purpose
